@@ -8,13 +8,15 @@ data:text/html,<title>TextEditor</title><style>:root{--n:rgb(20,20,20);--o:rgb(2
 ```
 
 <div align="center">
-<b>Features:</b>
-<br>
-Light/Dark mode
-<br>
-Zoom in/out
-<br>
-Save as HTML
-<br>
-Confirm before leaving
+  <header>
+    <h3><b>Features:</b></h3>
+  </header>
+  <br>
+  Light/Dark mode
+  <br>
+  Zoom in/out
+  <br>
+  Save as HTML
+  <br>
+  Confirm before leaving
 </div>
