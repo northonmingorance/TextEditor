@@ -11,7 +11,6 @@ data:text/html,<title>TextEditor</title><style>:root{--n:rgb(20,20,20);--o:rgb(2
   <header>
     <h3><b>Features:</b></h3>
   </header>
-  <br>
   Light/Dark mode
   <br>
   Zoom in/out
