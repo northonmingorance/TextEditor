@@ -1,16 +1,16 @@
 # TextEditor
 ## URI based text editor for the browser
 
-Features:
-
+**Features:**
+<br>
 Light/Dark mode
-
+<br>
 Zoom in/out
-
+<br>
 Save as HTML
-
+<br>
 Confirm before leaving
-
+<br>
 
 ### Paste the URI bellow to your browser's address bar or open the HTML file
 
