@@ -8,7 +8,7 @@ data:text/html,<title>TextEditor</title><style>:root{--n:rgb(20,20,20);--o:rgb(2
 ```
 
 <div align="center">
-**Features:**
+<b>Features:</b>
 <br>
 Light/Dark mode
 <br>
