@@ -1,5 +1,5 @@
 # TextEditor
-## URI based text editor for the browser
+## Data URL based text editor for the browser
 
 ### Paste the URI bellow to your browser's address bar or open the HTML file
 
